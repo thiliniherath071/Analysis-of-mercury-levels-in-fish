@@ -1,0 +1,54 @@
+ID,Lake,Alkalinity,pH,pH_cat,Calcium,Calcium_cat,Chlorophyll,Avg_Mercury,Mercury_cat
+1,Alligator,5.9,6.1,acid,3,low,0.7,1.23,unsafe
+2,Annie,3.5,5.1,acid,1.9,low,3.2,1.33,unsafe
+3,Apopka,116,9.1,base,44.1,high,128.3,0.04,acceptable
+4,Blue Cypress,39.4,6.9,acid,16.4,medium,3.5,0.44,acceptable
+5,Brick,2.5,4.6,acid,2.9,low,1.8,1.2,unsafe
+6,Bryant,19.6,7.3,base,4.5,low,44.1,0.27,acceptable
+7,Cherry,5.2,5.4,acid,2.8,low,3.4,0.48,acceptable
+8,Crescent,71.4,8.1,base,55.2,high,33.7,0.19,acceptable
+9,Deer Point,26.4,5.8,acid,9.2,medium,1.6,0.83,unsafe
+10,Dias,4.8,6.4,acid,4.6,low,22.5,0.81,unsafe
+11,Dorr,6.6,5.4,acid,2.7,low,14.9,0.71,unsafe
+12,Down,16.5,7.2,base,13.8,medium,4,0.5,unsafe
+13,Eaton,25.4,7.2,base,25.2,medium,11.6,0.49,acceptable
+14,East Tohopeka,7.1,5.8,acid,5.2,medium,5.8,1.16,unsafe
+15,Farm-13,128,7.6,base,86.5,high,71.1,0.05,acceptable
+16,George,83.7,8.2,base,66.5,high,78.6,0.15,acceptable
+17,Griffin,108.5,8.7,base,35.6,high,80.1,0.19,acceptable
+18,Harney,61.3,7.8,base,57.4,high,13.9,0.77,unsafe
+19,Hart,6.4,5.8,acid,4,low,4.6,1.08,unsafe
+20,Hatchineha,31,6.7,acid,15,medium,17,0.98,unsafe
+21,Iamonia,7.5,4.4,acid,2,low,9.6,0.63,unsafe
+22,Istokpoga,17.3,6.7,acid,10.7,medium,9.5,0.56,unsafe
+23,Jackson,12.6,6.1,acid,3.7,low,21,0.41,acceptable
+24,Josephine,7,6.9,acid,6.3,medium,32.1,0.73,unsafe
+25,Kingsley,10.5,5.5,acid,6.3,medium,1.6,0.34,acceptable
+26,Kissimmee,30,6.9,acid,13.9,medium,21.5,0.59,unsafe
+27,Lochloosa,55.4,7.3,base,15.9,medium,24.7,0.34,acceptable
+28,Louisa,3.9,4.5,acid,3.3,low,7,0.84,unsafe
+29,Miccasukee,5.5,4.8,acid,1.7,low,14.8,0.5,unsafe
+30,Minneola,6.3,5.8,acid,3.3,low,0.7,0.34,acceptable
+31,Monroe,67,7.8,base,58.6,high,43.8,0.28,acceptable
+32,Newmans,28.8,7.4,base,10.2,medium,32.7,0.34,acceptable
+33,Ocean Pond,5.8,3.6,acid,1.6,low,3.2,0.87,unsafe
+34,Ocheese Pond,4.5,4.4,acid,1.1,low,3.2,0.56,unsafe
+35,Okeechobee,119.1,7.9,base,38.4,high,16.1,0.17,acceptable
+36,Orange,25.4,7.1,base,8.8,medium,45.2,0.18,acceptable
+37,Panasoffkee,106.5,6.8,acid,90.7,high,16.5,0.19,acceptable
+38,Parker,53,8.4,base,45.6,high,152.4,0.04,acceptable
+39,Placid,8.5,7,base,2.5,low,12.8,0.49,acceptable
+40,Puzzle,87.6,7.5,base,85.5,high,20.1,1.1,unsafe
+41,Rodman,114,7,base,72.6,high,6.4,0.16,acceptable
+42,Rousseau,97.5,6.8,acid,45.5,high,6.2,0.1,acceptable
+43,Sampson,11.8,5.9,acid,24.2,medium,1.6,0.48,acceptable
+44,Shipp,66.5,8.3,base,26,medium,68.2,0.21,acceptable
+45,Talquin,16,6.7,acid,41.2,high,24.1,0.86,unsafe
+46,Tarpon,5,6.2,acid,23.6,medium,9.6,0.52,unsafe
+47,Trafford,81.5,8.9,base,20.5,medium,9.6,0.27,acceptable
+48,Trout,1.2,4.3,acid,2.1,low,6.4,0.94,unsafe
+49,Tsala Apopka,34,7,base,13.1,medium,4.6,0.4,acceptable
+50,Weir,15.5,6.9,acid,5.2,medium,16.5,0.43,acceptable
+51,Tohopekaliga,25.6,6.2,acid,12.6,medium,27.7,0.65,unsafe
+52,Wildcat,17.3,5.2,acid,3,low,2.6,0.25,acceptable
+53,Yale,71.8,7.9,base,20.5,medium,8.8,0.27,acceptable
